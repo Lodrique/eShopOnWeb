@@ -1,4 +1,4 @@
-﻿// My First change to this
+﻿// My First change to
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using Azure.Identity;
